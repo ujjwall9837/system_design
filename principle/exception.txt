@@ -1,0 +1,2 @@
+logic-error - out of range , memory 
+runtime-error - 

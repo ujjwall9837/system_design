@@ -1,0 +1,6 @@
+--- TOP DOWN APPROACH-----  : MAKE   top mmost object initially(main object of our application)
+
+----Bottom approach(Preferred) ---- small objects ,then move on to big objects
+
+
+Document
