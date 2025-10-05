@@ -1,0 +1,8 @@
+Composite Design pattern 
+
+Trees - problem that can be represent as hierarchy
+
+File folder system - perfect example 
+
+CDP - we can have 2 type of design patter , 1 is Composite and other can be leaf 
+treat both of them as same , composite and leaf should be same which has common interface 
